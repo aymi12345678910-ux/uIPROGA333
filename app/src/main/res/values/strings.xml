@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Voice Commander</string>
+    <string name="mic_button_desc">Нажмите для голосовой команды</string>
+    <string name="listening_status">Слушаю...</string>
+    <string name="idle_status">Нажмите кнопку и говорите</string>
+    <string name="permission_required">Требуется разрешение на запись звука</string>
+    <string name="permission_grant">Разрешить</string>
+    <string name="command_unrecognized">Команда не распознана. Попробуйте сказать «включить фонарик».</string>
+</resources>

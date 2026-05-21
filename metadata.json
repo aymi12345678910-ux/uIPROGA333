@@ -1,0 +1,6 @@
+{
+  "name": "Voice Commander",
+  "description": "Управление устройством Android с помощью 20+ голосовых команд. Открывайте приложения, управляйте звуком, Wi-Fi, фонариком и проверяйте статус устройства.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
